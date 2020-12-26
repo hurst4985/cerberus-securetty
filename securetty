@@ -1,4 +1,4 @@
-console
+console{
 tty0 
 tty1
 tty2 
@@ -11,7 +11,7 @@ tty8
 tty9
 tty10
 tty11
-console
+};{
 tty-0 
 tty-1
 tty-2 
@@ -25,3 +25,5 @@ tty-9
 tty-10
 tty-11
 console.log
+}
+;
