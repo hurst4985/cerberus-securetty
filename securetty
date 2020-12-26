@@ -12,6 +12,7 @@
        //downstream//
 console
 {
+console.Down
 {
 tty0 
 tty1
@@ -26,11 +27,8 @@ tty9
 tty10
 tty11
 }
-}
-;
-Console.log
-        //upstream//
-{
+      //upstream//
+console.Up
 {
 tty-0 
 tty-1
