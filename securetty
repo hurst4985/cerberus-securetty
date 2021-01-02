@@ -4,14 +4,12 @@
    #  (at your option) any later version.
    #    This program is distributed in the hope that it will be useful,
    #   but WITHOUT ANY WARRANTY; without even the implied warranty of
-   #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-   #   GNU General Public License for more details.
+   #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See #   GNU General Public License for more details.
    #    You should have received a copy of the GNU General Public License
    #    along with this program.  If not, see <https://www.gnu.org/licenses/>
 //
-       //downstream//
+       
 console
-{
 {
 tty0 
 tty1
@@ -26,11 +24,8 @@ tty9
 tty10
 tty11
 }
-}
 ;
-Console.log
-        //upstream//
-{
+Console
 {
 tty-0 
 tty-1
@@ -44,6 +39,5 @@ tty-8
 tty-9
 tty-10
 tty-11
-}
 }
 ;
